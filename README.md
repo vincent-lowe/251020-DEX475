@@ -65,5 +65,6 @@ Classroom Playlist
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
 |Have You Ever Seen the Rain|Willie Nelson|feat. Paula Nelson|
+|Navajo Rug|Jerry Jeff Walker||
 
 
