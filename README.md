@@ -64,5 +64,6 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
+|Have You Ever Seen the Rain|Willie Nelson|feat. Paula Nelson|
 
 
