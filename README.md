@@ -70,6 +70,7 @@ Classroom Playlist
 |It Ain't Over Yet|Rodney Crowell||
 |Here We Go Again|Ray Charles|feat. Norah Jones|
 |How Can You Mend a Broken Heart|Al Green||
+|Tupelo Honey|Reina del Cid||
 
 
 
