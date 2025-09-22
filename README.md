@@ -2,29 +2,29 @@
 
 Touch point for students of Aug Mulesoft API Design
 
-DEX475 - Anypoiont Development: API Design Classroom Reference - 250825 - PDT
+DEX475 - Anypoiont Development: API Design Classroom Reference - 250922 - CDT
 
 Vincent Lowe
 vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
-Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
+Trailhead Academy:	https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:							QTJJUS
+Attendance Code:     HHAHXU							
 
-Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
+Salesforce Mimeo:     https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:					USLMFHI8TB6P
+eBook Redemption Key:     USMB52GBOV0O
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:								https://www.research.net/r/trailheadacademy
 
-Survey ID:									TASM-038397
+Survey ID:	TASM-039142						
 
 -------------------------------------------------------------------------------------------------------------------
 
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX475
 
-Advanced REST Client: https://github.com/advanced-rest-client/arc-electron/releases/tag/v17.0.9
+Advanced REST Client: https://install.advancedrestclient.com/
 
 Postman: https://www.postman.com/downloads/
 
@@ -49,8 +49,7 @@ Einstein for Anypoint Code Builder: https://videos.mulesoft.com/watch/Z3Xzk8RFds
 Log Analyzer: https://help.salesforce.com/s/articleView?language=en_US&id=Support-Log-file-analyzer-tool&type=1
 
 ------------------------------------------------------------------------------
-
-Kyle Burke on Error Handling: https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/
+Bonus:
 
 DataWeave resource page: https://github.com/vincent-lowe/dataweave-learning
 
@@ -64,15 +63,6 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
-|Have You Ever Seen the Rain|Willie Nelson|feat. Paula Nelson|
-|Navajo Rug|Jerry Jeff Walker||
-|Hotel California|Moyun||
-|It Ain't Over Yet|Rodney Crowell||
-|Here We Go Again|Ray Charles|feat. Norah Jones|
-|How Can You Mend a Broken Heart|Al Green||
-|Tupelo Honey|Reina del Cid||
-|Hotel California|Lazslo Buring|Not Johnny Cash!|
-|The Streetbeater|Quincy Jones|Sanford and Son theme song|
 
 
 
