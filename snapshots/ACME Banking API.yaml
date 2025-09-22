@@ -1,0 +1,74 @@
+openapi: "3.0.0"
+info:
+  version: 1.0.0
+  title: ACME Banking API
+paths:
+  /customers:
+    get:
+      responses:
+        "200":
+          description: Retrieve customer information
+    post:
+      responses:
+        "201":
+          description: Create customer information
+
+  /customers/{customer_id}:
+    get:
+      responses:
+        "200":
+          description:
+    delete:
+      responses:
+        "200":
+          description: Archive customer record
+    patch:
+      responses:
+        "200":
+          description: Update customer record
+  
+  /customers/{customer_id}/accounts:
+    get:
+      responses:
+        "200":
+          description:
+
+  /accounts:
+    get:
+      responses:
+        "200":
+          description: Retrieve Account Records
+    post:
+      responses:
+        "201":
+          description: Create customer information
+
+  /accounts/{account_id}:
+    get:
+      responses:
+        "200":
+          description: 
+    put:
+      responses:
+        "200":
+          description: 
+        "201":
+          description: 
+
+  /accounts/{account_id}/transactions:
+    get:
+      responses:
+        "200":
+          description: 
+
+  /transactions:
+    post:
+      responses:
+        "201":
+          description: Create transaction information
+
+  /transactions/{transaction_id}:
+    get:
+      responses:
+        "200":
+          description: Retrieve transaction information for one ID    
