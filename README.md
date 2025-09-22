@@ -1,6 +1,6 @@
 ## Student Info for DEX475 (250922)
 
-Touch point for students of Aug Mulesoft API Design
+Touch point for students of Sept Mulesoft API Design
 
 DEX475 - Anypoiont Development: API Design Classroom Reference - 250922 - CDT
 
