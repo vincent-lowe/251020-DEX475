@@ -9,9 +9,15 @@ paths:
         "200":
           description: Retrieve customer information
     post:
+      requestBody:
+        content: {}
       responses:
         "201":
           description: Create customer information
+          headers:
+            Location:
+              schema:
+                type: string
 
   /customers/{customer_id}:
     get:
@@ -23,6 +29,9 @@ paths:
         "200":
           description: Archive customer record
     patch:
+      requestBody:
+        content:
+          {}
       responses:
         "200":
           description: Update customer record
@@ -39,9 +48,15 @@ paths:
         "200":
           description: Retrieve Account Records
     post:
+      requestBody:
+        content: {}
       responses:
         "201":
-          description: Create customer information
+          description: Create account information
+          headers:
+            Location:
+              schema:
+                type: string
 
   /accounts/{account_id}:
     get:
@@ -49,11 +64,18 @@ paths:
         "200":
           description: 
     put:
+      requestBody:
+        content:
+          {}            
       responses:
         "200":
           description: 
         "201":
           description: 
+          headers:
+            Location:
+              schema:
+                type: string
 
   /accounts/{account_id}/transactions:
     get:
@@ -63,9 +85,16 @@ paths:
 
   /transactions:
     post:
+      requestBody:
+        content: {}
       responses:
         "201":
           description: Create transaction information
+          headers:
+            Location:
+              schema:
+                type: string
+
 
   /transactions/{transaction_id}:
     get:
