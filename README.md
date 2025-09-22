@@ -1,4 +1,4 @@
-## Student Info for DEX475 (250825)
+## Student Info for DEX475 (250922)
 
 Touch point for students of Aug Mulesoft API Design
 
@@ -63,8 +63,5 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
-
-
-
 
 
