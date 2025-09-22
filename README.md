@@ -65,4 +65,5 @@ Classroom Playlist
 |Taxi (theme song)|Bob James||
 |Smooth Criminal|Luca Stricagnoli||
 |This Old Town|Nanci Griffith||
+|Tupelo Honey|Reina del Cid||
 
