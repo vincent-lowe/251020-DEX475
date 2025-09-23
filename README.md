@@ -68,4 +68,7 @@ Classroom Playlist
 |Tupelo Honey|Reina del Cid||
 |Sixteen Tons|Geoff Castellucci|all voices are Geoff|
 |City of New Orleans|Arlo Guthrie||
+|Smooth Criminal|Luca Stricagnoli||
 |I Was Doing All Right|Louis Armstrong|with Oscar Peterson|
+|Dos Oruguitas|Steven Joseph|From the movie Encanto|
+|It Ain't Over Yet|Rodney Crowell||
