@@ -72,3 +72,6 @@ Classroom Playlist
 |I Was Doing All Right|Louis Armstrong|with Oscar Peterson|
 |Dos Oruguitas|Steven Joseph|From the movie Encanto|
 |It Ain't Over Yet|Rodney Crowell||
+|The Final Countdown|Europe||
+
+
