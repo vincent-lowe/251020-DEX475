@@ -67,3 +67,5 @@ Classroom Playlist
 |This Old Town|Nanci Griffith||
 |Tupelo Honey|Reina del Cid||
 |Sixteen Tons|Geoff Castellucci|all voices are Geoff|
+|City of New Orleans|Arlo Guthrie||
+|I Was Doing All Right|Louis Armstrong|with Oscar Peterson|
