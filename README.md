@@ -66,6 +66,7 @@ Classroom Playlist
 |Smooth Criminal|Luca Stricagnoli||
 |Walking Stick|Leon Redbone||
 |Sixteen Tons|Geoff Castellucci||
+|Here We Go Again|Ray Charles and Norah Jones||
 
 
 
