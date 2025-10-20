@@ -1,24 +1,24 @@
-## Student Info for DEX475 (250922)
+## Student Info for DEX475 (251020)
 
 Touch point for students of Sept Mulesoft API Design
 
-DEX475 - Anypoiont Development: API Design Classroom Reference - 250922 - CDT
+DEX475 - Anypoint Development: API Design Classroom Reference - 251020 - PDT
 
 Vincent Lowe
 vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:	https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:     HHAHXU							
+Attendance Code:     NGL3YA						
 
 Salesforce Mimeo:     https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:     USMB52GBOV0O
+eBook Redemption Key:     US95R60QT9H2
 
 -------------------------------------------------------------------------------------------------------------------
-Survey Link:								https://www.research.net/r/trailheadacademy
+Survey Link:			https://www.research.net/r/trailheadacademy
 
-Survey ID:	TASM-039142						
+Survey ID:	         TASM-039144					
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -63,15 +63,6 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
-|Smooth Criminal|Luca Stricagnoli||
-|This Old Town|Nanci Griffith||
-|Tupelo Honey|Reina del Cid||
-|Sixteen Tons|Geoff Castellucci|all voices are Geoff|
-|City of New Orleans|Arlo Guthrie||
-|Smooth Criminal|Luca Stricagnoli||
-|I Was Doing All Right|Louis Armstrong|with Oscar Peterson|
-|Dos Oruguitas|Steven Joseph|From the movie Encanto|
-|It Ain't Over Yet|Rodney Crowell||
-|The Final Countdown|Europe||
+
 
 
