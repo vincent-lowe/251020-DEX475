@@ -65,6 +65,8 @@ Classroom Playlist
 |Taxi (theme song)|Bob James||
 |Smooth Criminal|Luca Stricagnoli||
 |Walking Stick|Leon Redbone||
+|Sixteen Tons|Geoff Castellucci||
+
 
 
 
