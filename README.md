@@ -67,6 +67,9 @@ Classroom Playlist
 |Walking Stick|Leon Redbone||
 |Sixteen Tons|Geoff Castellucci||
 |Here We Go Again|Ray Charles and Norah Jones||
+|Good Morning America|Arlo Guthrie||
+|Stairway to Heaven|Luca Stricagnoli||
+|Tupelo Honey|Reina del Cid|now performing as Elle and Toni|
 
 
 
