@@ -71,6 +71,7 @@ Classroom Playlist
 |Stairway to Heaven|Luca Stricagnoli||
 |Tupelo Honey|Reina del Cid|now performing as Elle and Toni|
 |The Hitter|Mark Erelli||
+|The Final Countdown|Europe||
 
 
 
